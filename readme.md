@@ -73,7 +73,7 @@ Machine has achieved omniscience.
 
 ## 🧑‍💻 Autores
 
-* [Vini](https://github.com/) — idealizador do meme que virou pacote
+* [Vini](https://github.com/viniruggeri) — idealizador do meme que virou pacote
 * O universo — pela inspiração caótica
 
 ---
