@@ -1,0 +1,2 @@
+[console_scripts]
+machine-self-learn = machine.self_learning:self_learn

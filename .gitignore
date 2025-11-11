@@ -1,0 +1,13 @@
+.venv
+__pycache__/
+*.pyc
+self_learned_model.pkl
+.ipynb_checkpoints
+.vscode/
+.DS_Store
+.env
+logs/
+data/
+models/
+outputs/
+results/

@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "machine"
+version = "0.1.0"
+description = "A meme that actually learns something."
+authors = [{ name = "Vini", email = "vini@example.com" }]
+dependencies = [
+    "torch",
+    "scikit-learn",
+    "datasets",
+    "numpy",
+    "rich",
+]
+requires-python = ">=3.8"
+
+[project.scripts]
+machine-self-learn = "machine.self_learning:self_learn"

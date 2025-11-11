@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: machine
+Version: 0.1.0
+Summary: A meme that actually learns something.
+Author-email: Vini <vini@example.com>
+Requires-Python: >=3.8
+Requires-Dist: torch
+Requires-Dist: scikit-learn
+Requires-Dist: datasets
+Requires-Dist: numpy
+Requires-Dist: rich

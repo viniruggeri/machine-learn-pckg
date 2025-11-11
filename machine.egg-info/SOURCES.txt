@@ -1,0 +1,11 @@
+learning.py
+pyproject.toml
+self_learning.py
+setup.cfg
+utils.py
+machine.egg-info/PKG-INFO
+machine.egg-info/SOURCES.txt
+machine.egg-info/dependency_links.txt
+machine.egg-info/entry_points.txt
+machine.egg-info/requires.txt
+machine.egg-info/top_level.txt
