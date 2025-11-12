@@ -1,4 +1,3 @@
-learning.py
 pyproject.toml
 self_learning.py
 setup.cfg
